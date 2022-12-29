@@ -1,6 +1,11 @@
 import { StoryObj, Meta } from '@storybook/react'
 
-import { Box, Text, TextAreaComp, TextAreaCompProps } from '@ignite-ui/react'
+import {
+  Box,
+  Text,
+  TextAreaComp,
+  TextAreaCompProps,
+} from '@chronostech-ui/react'
 
 export default {
   title: 'Form/TextArea',

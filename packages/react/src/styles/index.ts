@@ -1,4 +1,4 @@
-import { createStitches, defaultThemeMap } from '@stitches/react';
+import { createStitches, defaultThemeMap } from '@stitches/react'
 import {
   colors,
   fontSizes,
@@ -7,7 +7,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@ignite-ui/tokens';
+} from '@chronostech-ui/tokens'
 
 export const {
   styled,
@@ -34,4 +34,4 @@ export const {
     radii,
     space,
   },
-});
+})

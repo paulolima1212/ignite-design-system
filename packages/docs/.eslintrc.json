@@ -1,5 +1,5 @@
 {
-  "extends": "@ignite-ui/eslint-config",
+  "extends": "@chronostech-ui/eslint-config",
   "prettier/prettier": [
     {
       "endOfLine": "auto",

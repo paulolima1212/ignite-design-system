@@ -1,6 +1,6 @@
 import { StoryObj, Meta } from '@storybook/react'
 
-import { Text, TextProps } from '@ignite-ui/react'
+import { Text, TextProps } from '@chronostech-ui/react'
 
 export default {
   title: 'Typography/Text',

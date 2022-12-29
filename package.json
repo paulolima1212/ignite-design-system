@@ -5,7 +5,10 @@
   ],
   "scripts": {
     "dev": "turbo run dev --parallel",
-    "build": "turbo run build"
+    "build": "turbo run build",
+    "changeset": "changeset",
+    "version-packages": "changeset version",
+    "release": "turbo run build --filer=@chronostech-ui/docs && changeset publish"
   },
   "dependencies": {
     "polished": "^4.2.2"

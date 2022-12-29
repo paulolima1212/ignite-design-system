@@ -1,6 +1,11 @@
 import { StoryObj, Meta } from '@storybook/react'
 
-import { Box, Text, TextInput, TextInputComponentProps } from '@ignite-ui/react'
+import {
+  Box,
+  Text,
+  TextInput,
+  TextInputComponentProps,
+} from '@chronostech-ui/react'
 
 export default {
   title: 'Form/TextInput',

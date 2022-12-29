@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/tokens",
+  "name": "@chronostech-ui/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/ts-config": "*",
+    "@chronostech-ui/eslint-config": "undefined",
+    "@chronostech-ui/ts-config": "undefined",
     "typescript": "^4.9.4",
     "tsup": "^6.5.0"
   },
