@@ -1,0 +1,9 @@
+{
+  "extends": "@ignite-ui/eslint-config",
+  "prettier/prettier": [
+    {
+      "endOfLine": "auto",
+      "semi": false
+    }
+  ]
+}
