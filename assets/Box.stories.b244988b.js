@@ -1,0 +1,2 @@
+import{B as s,H as o,T as t}from"./index.3dbc1713.js";import{a as e,F as a,j as r}from"./jsx-runtime.331d0149.js";import"./index.4c1cbf47.js";import"./iframe.0195208c.js";import"./index.2a9eab2f.js";const d={title:"Surfaces/Box",component:s,args:{children:e(a,{children:[r(o,{as:"h1",children:"Hello world"}),r(t,{children:"Testing element"})]})}},x={},g={args:{children:"Strong Text",as:"section"}},p=["Primary","CustomTag"];export{g as CustomTag,x as Primary,p as __namedExportsOrder,d as default};
+//# sourceMappingURL=Box.stories.b244988b.js.map

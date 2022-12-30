@@ -1,0 +1,2 @@
+import{e as r,a as e,B as n}from"./index.3dbc1713.js";import{j as o}from"./jsx-runtime.331d0149.js";import"./index.4c1cbf47.js";import"./iframe.0195208c.js";import"./index.2a9eab2f.js";const l={title:"Form/TooltipComponent",component:r,args:{children:o(e,{children:"Send"})},decorators:[t=>o(n,{as:"label",css:{display:"flex",padding:"$16",flexDirection:"row",alignItems:"center",justifyContent:"center",gap:"$2"},children:t()})]},c={},d=["Primary"];export{c as Primary,d as __namedExportsOrder,l as default};
+//# sourceMappingURL=Tooltip.stories.d1c18540.js.map

@@ -1,0 +1,2 @@
+import{H as r}from"./index.3dbc1713.js";import"./index.4c1cbf47.js";import"./iframe.0195208c.js";import"./index.2a9eab2f.js";import"./jsx-runtime.331d0149.js";const s={title:"Typography/Heading",component:r,args:{children:"Title example"}},n={},p={args:{children:"Strong Heading",as:"h1"},parameters:{docs:{description:{story:"Heading is a `h2` for default, it can be change for another tag, using property `as`"}}}},d=["Primary","FirstTitle"];export{p as FirstTitle,n as Primary,d as __namedExportsOrder,s as default};
+//# sourceMappingURL=Heading.stories.7f7c4785.js.map

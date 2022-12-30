@@ -1,0 +1,2 @@
+import{d as r,a as e,B as n}from"./index.3dbc1713.js";import{j as t}from"./jsx-runtime.331d0149.js";import"./index.4c1cbf47.js";import"./iframe.0195208c.js";import"./index.2a9eab2f.js";const c={title:"Form/ToastComponent",component:r,args:{children:t(e,{children:"Send"})},decorators:[o=>t(n,{as:"label",css:{display:"flex",padding:"$16",flexDirection:"row",alignItems:"center",justifyContent:"center",gap:"$2"},children:o()})]},d={},l=["Primary"];export{d as Primary,l as __namedExportsOrder,c as default};
+//# sourceMappingURL=Toast.stories.d80f5946.js.map
