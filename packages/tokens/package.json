@@ -1,6 +1,6 @@
 {
   "name": "@chronostech-ui/tokens",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@chronostech-ui/eslint-config": "undefined",
-    "@chronostech-ui/ts-config": "undefined",
+    "@chronostech-ui/eslint-config": "*",
+    "@chronostech-ui/ts-config": "*",
     "typescript": "^4.9.4",
     "tsup": "^6.5.0"
   },

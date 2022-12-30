@@ -1,6 +1,6 @@
 {
   "name": "@chronostech-ui/react",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@chronostech-ui/eslint-config": "undefined",
-    "@chronostech-ui/tokens": "undefined",
-    "@chronostech-ui/ts-config": "undefined",
+    "@chronostech-ui/eslint-config": "*",
+    "@chronostech-ui/tokens": "*",
+    "@chronostech-ui/ts-config": "*",
     "@types/react": "^18.0.26",
     "@types/react-dom": "^18.0.10",
     "react": "^18.2.0",
@@ -26,6 +26,8 @@
   "dependencies": {
     "@radix-ui/react-avatar": "^1.0.1",
     "@radix-ui/react-checkbox": "^1.0.1",
+    "@radix-ui/react-toast": "^1.1.2",
+    "@radix-ui/react-tooltip": "^1.0.2",
     "@stitches/react": "^1.2.8",
     "phosphor-react": "^1.4.1"
   }
